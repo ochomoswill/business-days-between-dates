@@ -6,7 +6,9 @@
     "build": "tsc",
     "test": "jest"
   },
-  "keywords": [],
+  "keywords": [
+    "moments", "business days", "work days", "date functions", "typescript"
+  ],
   "author": "",
   "license": "ISC",
   "devDependencies": {
